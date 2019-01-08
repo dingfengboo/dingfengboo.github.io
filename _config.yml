@@ -1,9 +1,9 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+title:             定风波
+email:             dingfengboo@qq.com
+description:       竹仗芒鞋轻胜马,一笠烟雨任平生
+author:            chenyihui
+baseurl:           "/dingfengboo.github.io"
+url:               "http://dingfengboo.github.io"
 
 # Social Profiles
 twitter_username:  SBootstrap
