@@ -1,5 +1,9 @@
 ---
 published: false
+layout: post
+subtitle: 在线blog，爽歪歪
+date: '2019-01-08 15:45:13 -0400'
+background: /img/posts/01.jpg
 ---
 很多人已经中github page上面部署是个人blog，一般都要配合JEKYLL使用。本地部署JEKYLL优点麻烦，太GEEK，更无法做到随时随地发表修改文章。
 
@@ -21,5 +25,3 @@ fork完成以后， 点击setting， 修改Repository name为> username.github.i
 总共没几个文件， 看着编辑吧
 
 <h2>happy blog</h2>
-
-
