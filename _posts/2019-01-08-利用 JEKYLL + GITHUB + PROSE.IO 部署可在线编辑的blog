@@ -1,0 +1,25 @@
+---
+published: false
+---
+很多人已经中github page上面部署是个人blog，一般都要配合JEKYLL使用。本地部署JEKYLL优点麻烦，太GEEK，更无法做到随时随地发表修改文章。
+
+利用PROSE.IO可以解决这个问题， 完完全全在线编辑，就像老一代blog一样，但只需要一个github账号。废话少说，下面是步骤：
+
+1.注册一个github账号（略）
+
+2.fork 一个blog 模版
+最简单的方法是复制一个jekyll模版，中这个模版基础上修改。下面这些可以参考：
+Notepad - https://github.com/hmfaysal/Notepad
+startbootstrap-clean-blog-jekyll - https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll
+更多参考 http://jekyllthemes.org/
+
+3.项目设置
+fork完成以后， 点击setting， 修改Repository name为> username.github.io , 比如我的dingfengboo.github.io, 保存后就可以访问dingfengboo.github.io了。 但这时候的页面会有一些问题。
+
+4.用Prose.io编辑
+打开Prose.io，根据向导做授权， 然后打开项目dingfengboo.github.io 就可以开始编辑了。
+总共没几个文件， 看着编辑吧
+
+<h2>happy blog</h2>
+
+
