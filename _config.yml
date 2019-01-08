@@ -6,9 +6,9 @@ baseurl:           "/dingfengboo.github.io"
 url:               "http://dingfengboo.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+#twitter_username:  SBootstrap
+github_username:   dingfengboo
+#facebook_username: StartBootstrap
 
 # Build settings
 markdown:          kramdown
